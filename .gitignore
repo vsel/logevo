@@ -1,0 +1,4 @@
+.venv/
+.idea/
+logevo.egg-info/
+dist/
